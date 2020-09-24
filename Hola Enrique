@@ -3,6 +3,6 @@
 int main()
 {
         printf("Hola Soy Enrique Lopez);
-	printf("Hola Enrique soy Victor Mendez);
+	printf("Hola Enrique soy Victor Raul Escobar Mendez);
         return 0;
 }
